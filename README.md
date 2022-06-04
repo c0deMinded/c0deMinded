@@ -4,7 +4,7 @@
 
 <div align="center" width="50">
 
-<!-- <img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/> -->
+<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
 
 </div>
 
@@ -29,9 +29,9 @@ or <a href="mailto:jadejap785@gmail.com"><b>email</b></a> me
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 ---
-[![HitCount](http://hits.dwyl.com/c0deMinded/c0deMinded.svg)](http://hits.dwyl.com/c0deMinded/codeMinded)
+[![HitCount](https://hits.dwyl.com/c0deMinded/c0deMinded.svg?style=flat-square)](http://hits.dwyl.com/c0deMinded/c0deMinded)
 
-<i>Follow me around the web:</i><br>
+<!-- <i>Follow me around the web:</i><br> -->
 
   <!-- <a target="_blank" href="https://www.linkedin.com/in/absphreak/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
   <a target="_blank" href="https://www.instagram.com/absphreak/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●

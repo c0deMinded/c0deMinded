@@ -21,7 +21,7 @@ or <a href="mailto:jadejap785@gmail.com"><b>email</b></a> me
 
 <div align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=c0deMinded&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=c0deMinded&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="c0deMinded's Github Stats">
 
 </br>
 </br>
@@ -29,7 +29,7 @@ or <a href="mailto:jadejap785@gmail.com"><b>email</b></a> me
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 ---
-[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
+[![HitCount](http://hits.dwyl.com/c0deMinded/c0deMinded.svg)](http://hits.dwyl.com/c0deMinded/codeMinded)
 
 <i>Follow me around the web:</i><br>
 

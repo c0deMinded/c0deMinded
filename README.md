@@ -35,6 +35,8 @@ I am post-graduated on Computer Science <img src="https://media.giphy.com/media/
 
 - :seedling: Passionate about self-development and learning new technical skills.
 
+- :sparkles: I am open to freelance work.
+
 - :zap: In my free time, I read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/padmini-j-01ba6816a/)

@@ -29,11 +29,11 @@
 
 ### :woman_technologist: About Me :
 
-I am a post-graduate student in Computer Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from United Kingdom.
+I am post-graduated on Computer Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from United Kingdom. I'm enthusiastic about data science and Artificial Intelligence, especially considering how quickly technology is changing the profession. I enjoy being a part of new technologies and trying out innovative solutions. I'm especially interested in artificial intelligence after learning about it in-depth during my studies, and I'm eager to use AI in a more practical capacity.
 
 - :telescope: I’m looking for full-time opportunities as a Data Scientist and Machine Learning Engineer roles.
 
-- :seedling: Exploring Artificial Intelligence and Data Science.
+- :seedling: Passionate about self-development and learning new technical skills.
 
 - :zap: In my free time, I read tech articles.
 

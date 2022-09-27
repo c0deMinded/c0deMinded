@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/padmini-j-01ba6816a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://medium.com/@jadejap785">
+  <a href="https://medium.com/@codeminded">
     <img src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
   <a href="https://www.kaggle.com/padminijadeja">

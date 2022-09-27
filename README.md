@@ -5,9 +5,15 @@
   <a href="https://www.linkedin.com/in/padmini-j-01ba6816a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://medium.com/@jadejap785">
+    <img src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
   <a href="https://www.kaggle.com/padminijadeja">
     <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
-  </a>
+    </a>
+ 
+    
+
 </div>
 <img src="https://komarev.com/ghpvc/?username=c0deMinded&style=flat-square&color=blue" alt=""/>
 
@@ -25,13 +31,13 @@
 
 I am a post-graduate student in Computer Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from United Kingdom.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m looking for full-time opportunities as a Data Scientist and Machine Learning Engineer roles.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Aritifcial Intelligence and Data Science.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/padmini-j-01ba6816a/)
 
 ---
 

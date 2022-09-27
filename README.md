@@ -33,7 +33,7 @@ I am a post-graduate student in Computer Science <img src="https://media.giphy.c
 
 - :telescope: I’m looking for full-time opportunities as a Data Scientist and Machine Learning Engineer roles.
 
-- :seedling: Exploring Aritifcial Intelligence and Data Science.
+- :seedling: Exploring Artificial Intelligence and Data Science.
 
 - :zap: In my free time, I read tech articles.
 
